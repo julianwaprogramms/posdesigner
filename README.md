@@ -1,2 +1,2 @@
 # POSDesigner
-POSDesigner is a low-level developern and demonstration tool to generate documents for thermal pos printers.
+POSDesigner is a low-level developer and demonstration tool to generate documents for thermal pos printers.
